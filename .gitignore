@@ -1,0 +1,26 @@
+# Root Node/Vite
+node_modules/
+dist/
+build/
+
+# React Native
+HarmonyAuraApp/node_modules/
+HarmonyAuraApp/android/build/
+HarmonyAuraApp/ios/build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Firebase secrets
+*firebase*.json
+*.json.key
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
